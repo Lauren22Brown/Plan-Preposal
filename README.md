@@ -60,3 +60,5 @@ I hope that the project is fully functional, and I can have my dad play through 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 I need to get comfortable with pygame and begin the drawings. 
+
+https://www.youtube.com/watch?v=BtbeCuZG2pE 
